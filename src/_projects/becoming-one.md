@@ -8,8 +8,50 @@ focuses:
   - safety
 geolocation:
   region: Uganda
-  latitude: 2°46'54.0"N
-  longitude: 32°17'57.0"E
+  latitude: 2.78166667
+  longitude: 32.29916667
+
+stages:
+  - name: Research
+    summary:
+    locations:
+      - name: Uganda
+        latitude: 2.78166667
+        longitude: 32.29916667
+  - name: Generate Solutions
+    summary:
+    locations:
+      - name:
+        latitude:
+        longitude:
+  - name: Prototype
+    summary:
+    locations:
+      - name: Uganda
+        latitude: 2.78166667
+        longitude: 32.29916667
+      - name: Ethiopia
+        latitude: 8.8487707
+        longitude: 31.0099513
+  - name: Pilot
+    summary: Piloted a new version of the booklet in Uganda
+    locations:
+      - name: Uganda
+        latitude: 2.78166667
+        longitude: 32.29916667
+  - name: Rigorous Evaluation
+    summary:
+    locations:
+      - name: Uganda
+        latitude: 2.78166667
+        longitude: 32.29916667
+  - name: Scale
+    complete: 
+    summary:
+    locations:
+      - name:
+        latitude:
+        longitude:
 description: >-
   Becoming One is a counseling program designed to bring couples closer and
   prevent intimate partner violence. The program is delivered in partnership
